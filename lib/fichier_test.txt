@@ -1,0 +1,4 @@
+Ceci est un texte de test visant à savoir si ma méthode va fonctionner
+quand elle doit ouvrir un fichier. Le test est très difficile à faire alors
+je dois rédiger ce texte sur plusieurs lignes parce que le vrai fichier que
+je veux traiter fait plus de 100000 lignes ! Bref, c'est pas du gateau...
